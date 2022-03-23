@@ -16,7 +16,7 @@ range.onchange = function() {
 }
 //function
 btn.onclick = function() {
-	if (weight.value !="" && vol.value !="") {
+	if (weight.value !== "" && vol.value !== "") {
 		if (load.checked) {
 			load.value = 1500;
 		}else {

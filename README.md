@@ -14,4 +14,4 @@ In this master class, the following were considered:
 - Синтаксис JavaScript и его основы
 - Работа с DOM
 - Работа с базовыми алгоритмами
-- An online calculator for calculating the cost of cargo for a logistics company was made as a reinforcement of the knowledge gained at a JavaScript master class.
+
